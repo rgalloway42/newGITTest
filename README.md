@@ -15,3 +15,7 @@
 
 #Part 2
 #Common thing you do is branching.
+#git branch  ====> tells you what branches you have
+#git branch <new branch name> creates a new branch to mess around with.
+#this branch is a complete copy of all your master code from the master
+#git checkout feature1 ===>switches branch you are in to feature1
