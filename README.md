@@ -12,3 +12,6 @@
 #you need to press escape. then type :wq
 #that's because it opens up a fullblown multiline message
 # <ESCAPE> :wq <ENTER>
+
+#Part 2
+#Common thing you do is branching.
